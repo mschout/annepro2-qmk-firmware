@@ -4,6 +4,15 @@ This repository is just my AnnePro2 keymap, plus the necessary upstream tools an
 
 ## Building the Firmware
 
+Init / Update Submodules:
+
+```
+git submodule init
+git submodule update --recursive
+```
+
+Build everything
+
 ```
 make
 ```

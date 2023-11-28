@@ -1,0 +1,10 @@
+[submodule "qmk_firmware"]
+	path = qmk_firmware
+	url = https://github.com/OpenAnnePro/qmk_firmware
+	branch = keyboard-annepro2
+[submodule "AnnePro2-Tools"]
+	path = AnnePro2-Tools
+	url = https://github.com/OpenAnnePro/AnnePro2-Tools
+[submodule "annepro2-shine"]
+	path = annepro2-shine
+	url = https://github.com/OpenAnnePro/annepro2-shine.git
